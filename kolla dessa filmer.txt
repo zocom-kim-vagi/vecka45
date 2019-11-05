@@ -1,0 +1,8 @@
+
+Om Promises på 10 minuter
+https://www.youtube.com/watch?v=DHvZLI7Db8E&feature=youtu.be
+
+Async/await with Fetch
+https://www.youtube.com/watch?v=h6Zo8cxCFoY
+
+
